@@ -1,2 +1,2 @@
-# pytorch-
-pytorch从入门到？
+## about
+pytorch入门记录
