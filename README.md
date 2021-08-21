@@ -1,3 +1,3 @@
 ## about
 
-pytorch学习记录
+pytorch入门
